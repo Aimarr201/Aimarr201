@@ -79,4 +79,4 @@ Para contactar conmigo:
 - **LinkedIn:** [Aimar Mendibil Ayo](https://www.linkedin.com/in/aimar-mendibil-ayo-b4b784399)
 - **42 Intra:** [amendibi](https://intra.42.fr/users/amendibi)
 - **Email:** [aimar.mendibil.ayo@gmail.com](mailto:aimar.mendibil.ayo@gmail.com)
-- **Discord:** [aimar201](@aimar201)
+- **Discord:** @aimar201
