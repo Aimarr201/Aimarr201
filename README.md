@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&weight=300&size=24&pause=2000&color=ffffff&vCenter=true&random=true&width=435&height=30&lines=Aimar;Aimar+Mendibil+Ayo;Aimarr201;c3r5s1%40amendibi;amendibi)](https://github.com/Aimarr201)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&weight=300&size=24&pause=2000&color=ffffff&vCenter=true&random=true&width=435&height=30&lines=Aimar;Aimar+Mendibil+Ayo;Aimarr201;c3r6s1%40amendibi;amendibi)](https://github.com/Aimarr201)
 
 
 
